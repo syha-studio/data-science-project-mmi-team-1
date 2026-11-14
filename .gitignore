@@ -1,0 +1,7 @@
+# Abaikan semua isi di dalam folder data
+data/*
+
+# Kecualikan (tetap lacak) file-file berikut
+!data/medis_inap.csv
+!data/medis_jalan_cleaned.csv
+!data/medis_jalan.csv
